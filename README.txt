@@ -1,1 +1,3 @@
-A simple game of Connect 4. Player 1 drops X's into place and player 2 drops O's into place. Which ever player receives four in a row wins. 
+A simple game of Connect 4 built for Android 4.1.2 using Eclipse. Player 1 drops X's into place and player 2 drops O's into place. Which ever player receives four in a row wins. The program is accessible as a downloadable zip file at: http://github.com/liuchris/EECS481HW2
+
+To build, open Eclipse and go to File->New->Project->Android->Android Project from Existing Code and then run on either your Android Device or Android Virtual Device.
