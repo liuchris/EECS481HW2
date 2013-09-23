@@ -1,0 +1,1 @@
+A simple game of Connect 4. Player 1 drops X's into place and player 2 drops O's into place. Which ever player receives four in a row wins. 
